@@ -22,7 +22,7 @@ const AdditionalInfoComponent = ({ product }) => {
     verticalAlign: "top",
     color: "#1e4daf",
     marginBottom: "5px",
-    backgroundColor: "#4A84FB",
+    backgroundColor: "#DBE5FA;",
     padding: "2px 4px",
     borderRadius: "4px",
     display: "inline-block",
